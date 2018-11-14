@@ -1,0 +1,1 @@
+This is the directory for this Planner Preliminary, a very early implementation of one of my planner ideas.
