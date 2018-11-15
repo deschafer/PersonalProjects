@@ -1,0 +1,4 @@
+﻿  plannerView.cpp
+c:\users\damon\source\repos\planner_prelim\planner_prelim\plannerview.cpp(354): warning C4101: 'NodeTemp': unreferenced local variable
+  planner_prelim.vcxproj -> C:\Users\Damon\source\repos\planner_prelim\Debug\planner_prelim.exe
+  planner_prelim.vcxproj -> C:\Users\Damon\source\repos\planner_prelim\Debug\planner_prelim.pdb (Partial PDB)
